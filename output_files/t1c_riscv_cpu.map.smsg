@@ -1,0 +1,3 @@
+Warning (10273): Verilog HDL warning at imm_extend.v(21): extended using "x" or "z" File: C:/Users/DEVANK JAIN/Downloads/1092#10_mb_1092_task1c/mb_1092_task1c/t1c_riscv_cpu/code/components/imm_extend.v Line: 21
+Warning (10268): Verilog HDL information at alu.v(11): always construct contains both blocking and non-blocking assignments File: C:/Users/DEVANK JAIN/Downloads/1092#10_mb_1092_task1c/mb_1092_task1c/t1c_riscv_cpu/code/components/alu.v Line: 11
+Warning (10273): Verilog HDL warning at data_extend.v(16): extended using "x" or "z" File: C:/Users/DEVANK JAIN/Downloads/1092#10_mb_1092_task1c/mb_1092_task1c/t1c_riscv_cpu/code/components/data_extend.v Line: 16
